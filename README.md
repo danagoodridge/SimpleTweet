@@ -48,7 +48,7 @@ I applied for my twitter developer license on Tuesday and it is now Sunday and I
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Dana Goodridge]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
